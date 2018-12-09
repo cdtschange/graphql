@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Apollo (0.9.4):
+    - Apollo/Core (= 0.9.4)
+  - Apollo/Core (0.9.4)
+  - Applepie (0.0.2):
+    - Alamofire (~> 4.7.3)
+    - AsyncSwift (~> 2.0.4)
+    - CocoaLumberjack/Swift (~> 3.4.2)
+    - CryptoSwift (~> 0.13.0)
+    - Kingfisher (~> 4.10.0)
+    - ReactiveCocoa (~> 8.0.2)
+  - AsyncSwift (2.0.4)
+  - CocoaLumberjack/Default (3.4.2)
+  - CocoaLumberjack/Swift (3.4.2):
+    - CocoaLumberjack/Default
+  - CryptoSwift (0.13.0)
+  - Kingfisher (4.10.1)
+  - ReactiveCocoa (8.0.2):
+    - ReactiveSwift (~> 4.0)
+  - ReactiveSwift (4.0.0):
+    - Result (~> 4.0)
+  - Result (4.0.0)
+
+DEPENDENCIES:
+  - Apollo (~> 0.9.4)
+  - Applepie (~> 0.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Apollo
+    - Applepie
+    - AsyncSwift
+    - CocoaLumberjack
+    - CryptoSwift
+    - Kingfisher
+    - ReactiveCocoa
+    - ReactiveSwift
+    - Result
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Apollo: 450856adbdebcdf28c3c671f81732ac3f9944065
+  Applepie: d7b94bfe653b355c1c359a5440b78bfd3677c8af
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
+  CryptoSwift: 16e78bebf567bad1c87b2d58f6547f25b74c31aa
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ReactiveCocoa: fbd26e9ba60e98417ee47433e59465a98ed9da0f
+  ReactiveSwift: a2bb9ace428a109e9c0209615645d9d286c8c433
+  Result: 7645bb3f50c2ce726dd0ff2fa7b6f42bbe6c3713
+
+PODFILE CHECKSUM: 80bdccbd60c55a9f558b4fec9da6fda6d3a19776
+
+COCOAPODS: 1.5.3
